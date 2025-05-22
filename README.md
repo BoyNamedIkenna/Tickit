@@ -13,13 +13,9 @@ A simple, responsive task management app built with **React + TypeScript** and s
 - 📱 Responsive design with mobile touch support
 - 🎨 Smooth UI using Tailwind CSS and icons from Lucide
 
-## 📸 Screenshot
-
-![TickIt Screenshot](./screenshot.png) <!-- Replace this with your actual screenshot -->
-
 ## 🚀 Live Demo
 
-[View the live app here](https://your-deployment-link.vercel.app) <!-- Replace with your deployed URL -->
+[View the live app here](https://tickit-three.vercel.app/) <!-- Replace with your deployed URL -->
 
 ## 🛠️ Tech Stack
 
@@ -28,5 +24,4 @@ A simple, responsive task management app built with **React + TypeScript** and s
 - **Tailwind CSS**
 - **Lucide-react** for icons
 
-## 📂 Project Structure
 
